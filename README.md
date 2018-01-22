@@ -1,4 +1,5 @@
 # legendary-potato
 JavaScript Playground
 
-node <filename>
+node filename -- javascript
+tsc filename -- typescript
